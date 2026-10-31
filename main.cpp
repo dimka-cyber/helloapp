@@ -21,4 +21,6 @@ void greetBlack(){
 
 int main() {
     printHello();
+    greetWhite();
+    greetBlack();
 }
