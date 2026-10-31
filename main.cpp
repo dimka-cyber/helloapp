@@ -9,6 +9,11 @@ void printHello(){
 }
 
 
+void greetWhite(){
+    cout << "hello white" << endl;
+}
+
+
 int main() {
     printHello();
 }
