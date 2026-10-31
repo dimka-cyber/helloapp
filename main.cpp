@@ -14,6 +14,11 @@ void greetWhite(){
 }
 
 
+void greetBlack(){
+    cout << "hello black" << endl;
+}
+
+
 int main() {
     printHello();
 }
